@@ -12,8 +12,8 @@ Lógica Matemática: Divisão de prêmios, cálculo de quadrados e operações b
 Fundamentos: Exercícios introdutórios como "Hello World" e manipulação de variáveis.
 
 🛠️ Tecnologias
-Linguagem:** C (97.3% do projeto)
+Linguagem: C (97.3% do projeto)
 Ambiente:** Desenvolvido e testado em ambiente Linux/Windows.
 
----
+
 Estudante de Ciência da Computação na UFSJ.
