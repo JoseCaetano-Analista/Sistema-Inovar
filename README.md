@@ -1,26 +1,15 @@
-English
-This repository contains a collection of algorithms and programs developed in C during my Computer Science studies at UFSJ (Brazil).
+# Algoritmos & Logic in C | Algoritmos e Lógica em C
 
-📌 About the Repository The goal of this space is to document my progress in solving logical and mathematical problems while exploring the core foundations of programming.
+### 📚 Fundamentals Catalog | Catálogo de Fundamentos
+Essential algorithms developed during my Computer Science studies at UFSJ.
+Algoritmos essenciais desenvolvidos durante meus estudos de Ciência da Computação na UFSJ.
 
-📂 Contents This repository includes solutions for:
+| Folder | File | Description (EN) | Descrição (PT) |
+| :--- | :--- | :--- | :--- |
+| 📁 Fundamentals | `bubble-sort.c` | Classic sorting logic. | Lógica clássica de ordenação. |
+| 📁 Fundamentals | `prime-checker.c` | Loop optimization. | Otimização de loops e números primos. |
+| 📁 Fundamentals | `array-min-max.c` | Data extremes analysis. | Análise de valores máximos e mínimos. |
+| 📁 Fundamentals | `unit-converter.c` | Basic math & syntax. | Fundamentos de sintaxe e matemática. |
 
-Geometry: Area calculations for rectangles and other geometric shapes.
-
-Mathematical Logic: Prize distribution logic, square calculations, and basic operations.
-
-Foundations: Introductory exercises (Hello World) and variable manipulation.
-
-Português
-Este repositório contém uma coleção de algoritmos e programas desenvolvidos em linguagem C durante meus estudos de Ciência da Computação na UFSJ.
-
-📌 Sobre o Repositório O objetivo deste espaço é documentar minha evolução na resolução de problemas lógicos e matemáticos, explorando os fundamentos da programação.
-
-📂 Conteúdo O repositório inclui soluções para:
-
-Geometria: Cálculos de área de retângulos e figuras geométricas.
-
-Lógica Matemática: Divisão de prêmios, cálculo de quadrados e operações básicas.
-
-Fundamentos: Exercícios introdutórios e manipulação de variáveis.
-
+---
+**Contact | Contato:** [LinkedIn](https://www.linkedin.com/in/jose-caetano/) | [Email](mailto:josejoaocaetano16@gmail.com)
